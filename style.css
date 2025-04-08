@@ -10,7 +10,7 @@ body {
     color: navy;
   }
   p { color: brown; }
-  h3 { color: green; }
+  h3 { color: rgb(224, 119, 45); }
   h1 { font-size: 3em; }
   h2 { font-size: 2em; }
   h3 { font-size: 2em;}
